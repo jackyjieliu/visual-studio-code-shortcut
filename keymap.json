@@ -1,0 +1,43 @@
+[
+  {
+    "key": "cmd+shift+n",
+    "command": "workbench.action.quickOpen"
+  },
+  {
+    "key": "shift+cmd+down",
+    "command": "editor.action.moveLinesDownAction",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "shift+cmd+up",
+    "command": "editor.action.moveLinesUpAction",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "cmd+d",
+    "command": "editor.action.copyLinesDownAction",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "cmd+alt+left",
+    "command": "workbench.action.navigateBack",
+    "intellij": "Navigate back"
+  },
+  {
+    "key": "cmd+alt+right",
+    "command": "workbench.action.navigateForward",
+    "intellij": "Navigate forward"
+  },
+  {
+    "key": "ctrl+left",
+    "command": "workbench.action.previousEditor"
+  },
+  {
+    "key": "ctrl+right",
+    "command": "workbench.action.nextEditor"
+  },
+  {
+    "key": "cmd+shift+f",
+    "command": "workbench.view.search"
+  }
+]
