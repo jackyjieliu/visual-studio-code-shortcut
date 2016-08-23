@@ -39,5 +39,17 @@
   {
     "key": "cmd+shift+f",
     "command": "workbench.view.search"
+  },
+  {
+    "key": "cmd+j",
+    "command": "cursorHome"
+  },
+  {
+    "key": "cmd+k",
+    "command": "cursorEnd"
+  },
+  {
+    "key": "cmd+g",
+    "command": "workbench.action.gotoLine"
   }
 ]
