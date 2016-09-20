@@ -1,5 +1,12 @@
 {
   "editor.tabSize": 2,
   "editor.insertSpaces": true,
-  "files.trimTrailingWhitespace": true
+  "files.trimTrailingWhitespace": true,
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/typings": true,
+    "**/app/**/*.js": true,
+    "**/app/**/*.map": true,
+    "**/bower_components": true
+  }
 }
