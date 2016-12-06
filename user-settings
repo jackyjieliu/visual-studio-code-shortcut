@@ -8,5 +8,7 @@
     "**/app/**/*.js": true,
     "**/app/**/*.map": true,
     "**/bower_components": true
-  }
+  },
+  "window.zoomLevel": 2,
+  "editor.scrollBeyondLastLine": false
 }
