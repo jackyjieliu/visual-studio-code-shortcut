@@ -9,6 +9,15 @@
     "**/app/**/*.map": true,
     "**/bower_components": true
   },
+  
+  "files.exclude": {
+      "**/node_modules": true,
+      "**/target": true,
+      "**/dist": true,
+      "**/logs": true,
+      "**/tmp": true,
+      "**/.vscode": true
+  },
   "window.zoomLevel": 2,
   "editor.scrollBeyondLastLine": false
 }
