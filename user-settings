@@ -19,5 +19,8 @@
       "**/.vscode": true
   },
   "window.zoomLevel": 2,
-  "editor.scrollBeyondLastLine": false
+  "editor.scrollBeyondLastLine": false,
+  "files.associations": {
+    "*.css": "postcss"
+  }
 }
